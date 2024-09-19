@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rouscabe.github.io/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/app/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/assets/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/css/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/data/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/includes/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/item/sitemap.html.gz
+Sitemap: https://rouscabe.github.io/src/sitemap.html.gz
